@@ -55,9 +55,3 @@ Buscando evoluir continuamente através de projetos práticos e desafios reais.
 > "Disciplina constrói o que a motivação começa."  
 >  
 > Código limpo. Dados claros. Decisões inteligentes.
-
----
-
-## 🐍 Contribuições
-
-![Snake animation](https://github.com/DavDestiny/DavDestiny/blob/output/github-contribution-grid-snake.svg)
