@@ -21,9 +21,9 @@ Buscando evoluir continuamente através de projetos práticos e desafios reais.
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavDestiny&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavDestiny&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavDestiny&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavDestiny&layout=compact&theme=merko&custom_tittle-Tecnologias&langs_count=4)
 
 ---
 
